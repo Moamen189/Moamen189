@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **moamen.ashraf1892001@gmail.com**
 
-- ⚡ Fun fact ** Palying Billiard , Watching Movies ,listening to some good music 🎮🎧**
+- ⚡ Fun fact **Palying Billiard , Watching Movies ,listening to some good music 🎮🎧**
 <div align=center>
         <img src="https://github.com/Moamen189/Moamen189/blob/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
