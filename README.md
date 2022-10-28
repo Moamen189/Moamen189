@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Moamen</h1>
-<h3 align="center">A Software Engineer who is interested in building cool stuff with Programming.</h3>
+<h3 align="center">A Software Engineer who is interested in Building Cool Stuff With Programming.</h3>
 
 - 🌱 I’m currently learning **Umbraco**
 
