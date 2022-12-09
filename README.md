@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/19934363/moamen-ashraf-muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19934363/moamen-ashraf-muhammed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/moamen_ashraf181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/moamen_ashraf181" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/moamenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/moamenn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user1624nz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user1624Nz/" height="30" width="40" /></a>
+<a href="https://leetcode.com/user1624Nz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user1624Nz/" height="30" width="40" /></a>
 
 </p>
 
