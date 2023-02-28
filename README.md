@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋, I'm Moamen</h1>
 <h3 align="center">A Software Engineer who is interested in Building Cool Stuff With Programming.</h3>
 
-- 🌱 I’m currently learning **DevExpress Framework**
+- 🌱 I like to explore new technologies and develop robust and efficient software solutions.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moamen189](https://github.com/Moamen189)
 
