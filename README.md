@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Moamen</h1>
-<h3 align="center">Computer Science Student  , Studies Computer Science at Faculty of Computers and Information - Suez University.
+<h3 align="center">A Software Engineer who is interested in building cool stuff with Programming.
 </h3>
 
 - 🌱 I like to explore new technologies and develop robust and efficient software solutions.
