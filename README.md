@@ -1,5 +1,6 @@
-<h1 align="center">Hello!👋, I'm Moamen Ashraf Moahemd</h1>
-<h3 align="center">A Software Engineer who is interested in Building Cool Stuff With Programming.</h3>
+<h1 align="center">Hello!👋, I'm Moamen Ashraf Mohemd</h1>
+<h3 align="center">Computer Science Student  , Studies Computer Science at Faculty of Computers and Information - Suez University.
+</h3>
 
 - 🌱 I like to explore new technologies and develop robust and efficient software solutions.
 
